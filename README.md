@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Victor 👋
 
-<!--
-**Victorgreene123/Victorgreene123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Engineer (MERN)
+🚀 Building scalable web & mobile applications
+📍 Lagos, Nigeria
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Portfolio
+
+🔗 https://victor-dev-eight.vercel.app/
+
+---
+
+## 🔧 Tech Stack
+
+**Frontend:** React, React Native, Next.js
+**Backend:** Node.js, Express, NestJS , Django , FastAPI
+**Database:** MongoDB, Prisma
+**Other Tools:** Python, REST APIs, Zustand, Redis
+
+---
+
+---
+
+## 🧠 What I'm Building
+
+* ⚡ CodeX – Tech education & developer tools platform
+* 🤖 AI-powered job recommendation systems
+* 📱 Scalable mobile apps with React Native
+
+---
+
+## 📫 Contact Me
+
+* 📧 [victorokereafor8@gmail.com](mailto:victorokereafor8@gmail.com)
+* 📞 +234 8163549377
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy turning ideas into real, usable products — not just code.
+
